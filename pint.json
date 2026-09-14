@@ -1,0 +1,28 @@
+{
+    "preset": "laravel",
+    "exclude": [
+        "bootstrap/cache",
+        "config"
+    ],
+    "notPath": [
+        "public/index.php",
+        "app/Http/Controllers/Controller.php",
+        "app/Providers/AppServiceProvider.php",
+        "database/migrations/0001_01_01_000000_create_users_table.php",
+        "database/migrations/0001_01_01_000001_create_cache_table.php",
+        "database/migrations/0001_01_01_000002_create_jobs_table.php",
+        "database/migrations/2026_09_11_164539_create_personal_access_tokens_table.php"
+    ],
+    "rules": {
+        "declare_strict_types": true,
+        "strict_comparison": true,
+        "strict_param": true,
+        "fully_qualified_strict_types": true,
+        "global_namespace_import": {
+            "import_classes": true,
+            "import_constants": false,
+            "import_functions": false
+        },
+        "void_return": true
+    }
+}

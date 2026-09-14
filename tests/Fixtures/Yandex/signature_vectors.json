@@ -1,0 +1,42 @@
+[
+  {
+    "params": {
+      "ajax": "1",
+      "businessId": "1124715036",
+      "csrfToken": "4e5cdc60be32dc4acf53bd3dc7f2c84d95acf3d2:1789150777",
+      "locale": "ru_RU",
+      "page": "1",
+      "pageSize": "50",
+      "ranking": "by_time"
+    },
+    "query": "ajax=1&businessId=1124715036&csrfToken=4e5cdc60be32dc4acf53bd3dc7f2c84d95acf3d2%3A1789150777&locale=ru_RU&page=1&pageSize=50&ranking=by_time",
+    "s": "2696424251"
+  },
+  {
+    "params": {
+      "ajax": "1",
+      "businessId": "1124715036",
+      "locale": "ru_RU",
+      "page": "1",
+      "pageSize": "50",
+      "ranking": "by_time"
+    },
+    "query": "ajax=1&businessId=1124715036&locale=ru_RU&page=1&pageSize=50&ranking=by_time",
+    "s": "2800550154"
+  },
+  {
+    "params": {
+      "ajax": "1",
+      "businessId": "1124715036",
+      "csrfToken": "0db548668d53be86e4d4e37db7daa6e4d1329636:1789150603",
+      "locale": "ru_RU",
+      "page": "2",
+      "pageSize": "50",
+      "ranking": "by_time",
+      "reqId": "1789150603164253-7577884887870415493-balancer-l7leveler-kubr-yp-vla-229-BAL",
+      "sessionId": "1789150603164253-7577884887870415493-balancer-l7leveler-kubr-yp-vla-229-BAL"
+    },
+    "query": "ajax=1&businessId=1124715036&csrfToken=0db548668d53be86e4d4e37db7daa6e4d1329636%3A1789150603&locale=ru_RU&page=2&pageSize=50&ranking=by_time&reqId=1789150603164253-7577884887870415493-balancer-l7leveler-kubr-yp-vla-229-BAL&sessionId=1789150603164253-7577884887870415493-balancer-l7leveler-kubr-yp-vla-229-BAL",
+    "s": "1308366484"
+  }
+]

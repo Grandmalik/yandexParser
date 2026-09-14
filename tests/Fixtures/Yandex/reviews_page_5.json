@@ -1,0 +1,41 @@
+{
+  "data": {
+    "reviews": [],
+    "params": {
+      "offset": 200,
+      "limit": 50,
+      "count": 191,
+      "loadedReviewsCount": 250,
+      "page": 5,
+      "totalPages": 4,
+      "reviewsRemained": -59
+    },
+    "tags": [],
+    "aspects": [
+      {
+        "text": "Обслуживание",
+        "count": 170,
+        "positive": 136,
+        "negative": 31
+      },
+      {
+        "text": "Ремонт",
+        "count": 104,
+        "positive": 79,
+        "negative": 24
+      },
+      {
+        "text": "Персонал",
+        "count": 93,
+        "positive": 65,
+        "negative": 14
+      },
+      {
+        "text": "Время ожидания",
+        "count": 92,
+        "positive": 86,
+        "negative": 5
+      }
+    ]
+  }
+}

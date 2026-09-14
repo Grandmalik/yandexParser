@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": 400,
+    "message": "Validation error. \"query.locale\": Required"
+  }
+}

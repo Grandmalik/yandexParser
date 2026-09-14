@@ -1,0 +1,1230 @@
+{
+  "data": {
+    "reviews": [
+      {
+        "reviewId": "QRXgW0NmWdybgplgHrmk41EErI9fdT5x",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 71",
+          "professionLevel": "Знаток города 5 уровня"
+        },
+        "text": "Сделали  сход развал,гарантию не дали,мастер заявил что сайлентблоки неправильно установлены  это  при том что они заводские ещё. Но деньги взяли за работу ",
+        "textLanguage": "ru",
+        "rating": 1,
+        "updatedTime": "2025-01-21T17:59:01.720Z",
+        "businessComment": {
+          "text": "Добрый день. чтобы более подробно разобраться в ситуации, подскажите номер заказа или когда вы к нам обращались? и за какую услугу была оплата, за диагностику или сход развал?",
+          "updatedTime": "2025-02-06T20:47:04.490Z"
+        },
+        "reactions": {
+          "likes": 4,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "my7-y1R2vqE8u8y_y_494nnh6Et8ZubUA",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 72",
+          "professionLevel": "Знаток города 5 уровня"
+        },
+        "text": "Заезжал с одной проблемой, выехал с другой, в сыктывкаре есть хоть одна нормальная станция.",
+        "textLanguage": "ru",
+        "rating": 2,
+        "updatedTime": "2025-01-04T17:33:50.309Z",
+        "businessComment": {
+          "text": "Добрый день. чтобы более подробно разобраться в ситуации. напишите пожалуйста с какой проблемой вы приезжали ? и в чем вообщее ее суть?",
+          "updatedTime": "2025-01-10T11:58:11.911Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "ZGC3hX4dNcsiHlxQBQvrTdpIPe_LrP",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 73",
+          "professionLevel": "Знаток города 5 уровня"
+        },
+        "text": "Отличный сервис. Приехал в канун нового года с поломкой сделали все очень быстро более того приняли вне очереди войдя в положение. Рекомендую",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-12-29T11:03:37.613Z",
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2025-01-03T09:14:02.741Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "EOq6AOD4cg5EjLCJm4U-NB1W4Ci9Li4FN",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 49",
+          "professionLevel": "Знаток города 9 уровня"
+        },
+        "text": "Отличный сервис, работают оперативно, грамотно. Ремонтировал подвеску РАВ 4, 26 декабря ",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-12-26T11:32:42.352Z",
+        "businessComment": {
+          "text": "Спасибо за такой отзыв",
+          "updatedTime": "2025-01-03T09:14:08.836Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "y4Pv85nxbI96zIk_0oqCC85Gsn6CTBI",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 74",
+          "professionLevel": "Знаток города 2 уровня"
+        },
+        "text": "Это ЖЕСТЬ!!!!\nЗаехал с ремонтом генератора.Супруга забрала и пожаловалась на гул и вибрацию.Скази всё нормально. Сел Я и так оно и есть.Позвонил и заехал опять,зачем-то перебрали опять генератор. Хотя говорил смотрите защиту ДВС.Все тоже самое. Поднял в другом сервисе и увидел некомпетентность. Болт защиты отсутствует и вместо него рядом саморез!!!!!На что по звонку ответили,значит посчитали нужным!!!!!ахренеть,и установили впритык к опоре,вот и вибрация,но они считают так нужно!!!!!Ремонт 15тыс !Спасибо директору должно быть стыдно за таких специалистов!!!!!!!!!!!!!!!!!19 декабря!!!!!",
+        "textLanguage": "ru",
+        "rating": 1,
+        "updatedTime": "2024-12-25T22:16:42.812Z",
+        "businessComment": {
+          "text": "Добрый день! Спасибо, что уделили время и оставили отзыв! Сожалеем, что Вам не понравилось. из ваших слов следует что мы решили вашу проблему с генератором , по ремонту которого вы обращались. сожалеем что мастер не смог найти способ решить вопрос с резьбой для болта на креплении защиты. наше направление больше электрика и токарными работами мы не занимаемся мы учтем ваше замечание сделаем выводы.",
+          "updatedTime": "2025-01-03T09:16:38.228Z"
+        },
+        "reactions": {
+          "likes": 2,
+          "dislikes": 2,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "I-76VLp0yV2n1BdfWxDVWBSIXGyjbPg",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 75",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Опасно для жизни! \n\nК работе подошли крайне безответственно. Машина чуть не загорелась после их вмешательства: было короткое замыкание из-за силового кабеля, который касался стенки двигателя (неправильно установили). На трассе что-то коротнуло под капотом, на мгновение погасла приборка. Остановился, проверил клеймы аккумулятора. Не увидел никаких отклонений: все затянуто как надо. С опаской доехал до работы.\n\nИстория значит такая.\n\nИзначально меняли бендикс на стартере - с этим вроде все хорошо. Но появилась другая проблема - мигание датчика аккумулятора на приборной панели. Говорю им, никогда такого не было, это ненормально; посмотрите, может что не так сделали... Когда подъехал к ним снова, мастер, который выполнял работу, открыл капот и сказал, что не видит проблемы; что не понимает как это его касается и все в таком духе... Мол пора менять генератор. А я еще раз говорю: это впервые, что-то не так, поднимите машину убедитесь, что нигде ничего не отходит. Отказ: проблема в генераторе, меняйте. Да? А с чего это вдруг? Пробег-то небольшой, и ты ведь даже не удосужился толком протестировать его, чтобы давать такие заключения. \n\nМигом поехал в другой сервис. И обнаружили жуть: замыкание силового провода со стартера на кузов. Машина могла воспламениться в любой момент. Либо сдох бы генератор, который, оказывается, еще в приличном состоянии. \n\nВот мне интересно: они специально так сделали, чтобы потом развести на замену/ремонт генератора, или это банальные непрофессионализм и безответственность?\n\nЛично для меня теперь уже не важно. Это было мое последнее обращение в данный \"сервис\", т.к. нет лишних средств на ненужные работы, всячески ими предлагаемые, и просто хочется жить, а не сгореть в собственном авто.",
+        "textLanguage": "ru",
+        "rating": 1,
+        "updatedTime": "2024-12-20T16:07:04.046Z",
+        "businessComment": {
+          "text": "Добрый день! Спасибо, что уделили время и оставили отзыв! Чтобы подробнее разобраться в ситуации и для улучшения нашей работы, подскажите, пожалуйста, дату и время Вашего визита. Хорошего Вам дня! \n",
+          "updatedTime": "2024-12-24T14:15:49.963Z"
+        },
+        "reactions": {
+          "likes": 4,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "2HXMIjsTQRXXareHTv4n_cwfnD3eeR",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 76",
+          "professionLevel": "Знаток города 5 уровня"
+        },
+        "text": "Суппер. Парни разобрались в проблеме. ",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-12-13T18:02:33.377Z",
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв",
+          "updatedTime": "2024-12-24T08:33:18.774Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "Im3o_UJ6ngxhYiJul_vuIwfXWqcVGj",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 33",
+          "professionLevel": "Знаток города 4 уровня"
+        },
+        "text": "Сервис просто Супер! Дело своё знают отлично, всё объяснят, подскажут, делают быстро, оперативно. Очень доволен. Добрые, отзывчивый персонал! Всем рекомендую этот автосервис!",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-11-30T06:57:20.519Z",
+        "businessComment": {
+          "text": "Спасибо, что оценили",
+          "updatedTime": "2024-12-24T08:33:23.735Z"
+        },
+        "reactions": {
+          "likes": 4,
+          "dislikes": 2,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "UAKaowDT-2oCF91u8FlvMbS9YTQzxDJi-",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 19",
+          "professionLevel": "Знаток города 11 уровня"
+        },
+        "text": "Классный автосервис. Не раз ремонтировал генераторы на разных машинах. Записывают сразу, на следующий день уже можно загонять машину. Запчасти в наличии, качественный ремонт и  диагностика.",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-11-18T10:37:13.785Z",
+        "businessComment": {
+          "text": "Спасибо, мы старались",
+          "updatedTime": "2024-12-24T08:33:27.492Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "Q9xypdfps1LEjmTnGZimBOGPedLgdl",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 77",
+          "professionLevel": "Знаток города 7 уровня"
+        },
+        "text": "При установке генератора провернули болт с диодного моста. Зачем с такой дурью гайку закручивать? Не доехал до Ухты. А ехать нужно было ещё дальше. Хорошо, что семью отправил поездом. ",
+        "textLanguage": "ru",
+        "rating": 1,
+        "updatedTime": "2024-10-22T16:41:32.795Z",
+        "businessComment": {
+          "text": "Добрый день! чтобы более подробно разобраться в ситуации укажите пожалуйста где и когда вы ремонтировали генератор? и где вы устанавливали генератор? какой именно болт провернули?",
+          "updatedTime": "2024-11-05T10:30:46.135Z"
+        },
+        "reactions": {
+          "likes": 6,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "ENeHDl1yo0pe7NnByZ0KFzgVVEFX35a",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 24",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Обратился за ремонт генератора,  но они зачем то мне поменяли ролик и ремень,  хотя в моём сервисе это 3 дня назад сделали.  И ещё на было сделать сход-развал, они пытались развести на замену ступечных подшипников. После поехал в другой сервис делать сход-развал там сделали сказали, что всё в норме.\nНе рекомендую их никому. ",
+        "textLanguage": "ru",
+        "rating": 1,
+        "updatedTime": "2024-09-24T14:07:43.220Z",
+        "businessComment": {
+          "text": "Уважаемый Сергей. Мы более 10 лет делаем только качественный ремонт и даем гарантию на свою работу. Мы никогда не меняем запчасти если на то нет необходимости, в крайнем случае по рекомендации и всегда с согласования с клиентом.  Мы не будем делать сход развал если не получится его сделать качественно! ",
+          "updatedTime": "2024-09-30T08:51:27.323Z"
+        },
+        "reactions": {
+          "likes": 7,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "iaLRTztd-fcHi6yfeeRqcashlUv9XYhx",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 38",
+          "professionLevel": "Знаток города 2 уровня"
+        },
+        "text": "Отвратительный сервис работают не профессионально. Один раз был там и больше не рискну! Старые запчасти не возвращают (некоторые из них очень дорогие и в плохом состоянии можно продать на восстановление)  плюс ко всему есть подозрение на подмену рабочих запчастей на нерабочие.",
+        "textLanguage": "ru",
+        "rating": 1,
+        "updatedTime": "2024-09-20T22:59:30.904Z",
+        "businessComment": {
+          "text": "Добрый день! Уважаемый Арман ! Мы производим профессиональный ремонт более 10 лет. и всегда даем гарантию на свою работу и запчасти  в  отличие от других сервисов. на стартера и генераторы гарантия пол года!!! и нам нет смысла ставить запчасти плохого качества, мы ставим только проверенные  производители.  старые запчасти нам не нужны и мы их отдаем клиентам вместе с автомобилем. если клиент не хочет забирать то мы их утилизируем. Мы всегда согласовываем ремонт и запчасти с клиентам заранее. и никогда не меняем рабочие запчасти на нерабочие. Мы дорожим своей репутатцией и своими клиентами ! ",
+          "updatedTime": "2024-09-27T09:03:01.279Z"
+        },
+        "reactions": {
+          "likes": 5,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "2G7hNK_T5QN9833CsiK5cks3Z8_MMj",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 78",
+          "professionLevel": "Знаток города 5 уровня"
+        },
+        "text": "Нормальный автосервис , адекватные цены, быстро устранили неполадку! 👍🏻",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-09-12T19:15:37.993Z",
+        "businessComment": {
+          "text": "Спасибо за приятный отклик",
+          "updatedTime": "2024-09-27T09:03:06.138Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "tYER4vkLJqXaNhnMLnoY_6J0NDl5Y2lmv",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 79",
+          "professionLevel": "Знаток города 4 уровня"
+        },
+        "text": "Спасибо всё сдали быстро 👌",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-08-28T17:17:08.870Z",
+        "businessComment": {
+          "text": "Спасибо за такой отзыв",
+          "updatedTime": "2024-09-11T06:37:38.994Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "9d2l5rUx8idUiByx4Nu4EfWhbTtEH7E",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 80",
+          "professionLevel": "Знаток города 5 уровня"
+        },
+        "text": "Второй раз восстанавливаю генератор, с пятилетним перерывом, качественно выполненные работы.",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-08-25T07:42:40.707Z",
+        "businessComment": {
+          "text": "Спасибо за оценку",
+          "updatedTime": "2024-09-11T06:37:32.556Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "KGUenIP3ZsXlGw3VWCL5zlbGOTwvgQ",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 81",
+          "professionLevel": "Знаток города 6 уровня"
+        },
+        "text": "Содрали 8000 за замену ремня генератора, попросили заменить натяжитель, который по итогу менять не надо было(старый просто окунули в солярку, оказался в идеальном состоянии, даже подшипник не шумит, люфта нет) Так же Попросили заменить патрубок антифриза, сказали что нужно снимать термостат и покупать прокладки для него, несмотря на то что патрубок находится в другом месте.. в общем обманули, ладно хрен с ним еще и болты не до конца закрутили, самим переделывать пришлось. В общем по воздуху работают. Крайне не советую. ",
+        "textLanguage": "ru",
+        "rating": 1,
+        "updatedTime": "2024-08-15T04:34:13.441Z",
+        "businessComment": {
+          "text": "Уважаемый Никита. Мы работаем на качество и плохо делать не умеем. аи никогда никого не обманывали и не будет так работать, нам репутутция важнее. если у вас есть вопросы , то мы всегда на связи и открыты к диалогу. просто позвоните. а разобравшись по вашему ремонту , могу прокоментирвать следующее: 8000р. с вас взяли на покупку запчастей. которые изначально с вами согласовали, мы просто их купили чтобы не тратить ваше время. а за работу которую мастер делал целый день вы заплатили всего 1000р!. по поводу натяжителя вам и не говорили что он шумит, там проблема в семом механизме натяжения и вам на месте все показали и обьяснили и можно хоть каждый день замачивать в саляре , это не решит проблемы. ",
+          "updatedTime": "2024-09-11T06:36:55.453Z"
+        },
+        "reactions": {
+          "likes": 4,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "_QKEwEnxf5mxkqJ6gyKYp2KrQSamRWK",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 82",
+          "professionLevel": "Знаток города 2 уровня"
+        },
+        "text": "Довольна данным СТО. Все качественно и с гарантией. Пользуюсь услугами только этим СТО.",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-08-09T06:28:16.571Z",
+        "businessComment": {
+          "text": "Спасибо за приятный отзыв",
+          "updatedTime": "2024-09-11T06:37:07.621Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "7wPgu84I-2oGJFKtjMbFH1yVa0mBZX",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 83",
+          "professionLevel": "Знаток города 2 уровня"
+        },
+        "text": "Обслуживание на высшем уровне. Ребята работают на отлично . Мне понравилось. Персоналу спасибо..",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-07-29T09:46:47.495Z",
+        "businessComment": {
+          "text": "Спасибо за такой отзыв",
+          "updatedTime": "2024-09-11T06:37:05.672Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 3,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "qrPd0nv5iRIq1xbnE5heam0N5JSKVpLSk",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 84",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Парням респект!!выручили!!ехали из далека , навернуля генератор, сделали все быстро, качественно, и зп все есть, в общем рекомендую!",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-07-28T08:12:22.798Z",
+        "businessComment": {
+          "text": "Спасибо за приятный отзыв",
+          "updatedTime": "2024-09-27T09:03:17.176Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 3,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "m1DgR0HrtWRzVe-1ouF32VSFksJVMTaR",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 44",
+          "professionLevel": "Знаток города 6 уровня"
+        },
+        "text": "Спасибо за быстрый ремонт моторчика печки. В случае возникновения проблем - буду приезжать. \nНе дорого, качественно. Радует, что парни понимают с чем работают👍",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-07-13T16:32:12.033Z",
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2024-09-11T06:37:16.807Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 2,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "L397ZTXdWDmszc88JlHE9puhGKS0dbCI",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 48",
+          "professionLevel": "Знаток города 5 уровня"
+        },
+        "text": "Замечательный сервис! Компетентные менеджеры и слесари! Отремонтировали быстро и по очень хорошей цене! Буду обращаться только к вам!",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-07-07T17:10:22.393Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "YZpWR5uuE2hkiS-IdmqDw9A9geM106W",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 85",
+          "professionLevel": "Знаток города 11 уровня"
+        },
+        "text": "Быстро произвели ремонт, что очень было , тактичное и доброжелательное отношение к клиентам кстати",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-07-04T06:41:28.859Z",
+        "businessComment": {
+          "text": "Спасибо за такой отзыв",
+          "updatedTime": "2024-09-11T06:37:20.240Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "y-bj0NVriwC1u2bCvV-ocLEPF-7zVs",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 86",
+          "professionLevel": "Знаток города 5 уровня"
+        },
+        "text": "Быстро и качествено",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-06-21T14:24:39.437Z",
+        "businessComment": {
+          "text": "Спасибо, что оценили",
+          "updatedTime": "2024-09-11T06:37:23.515Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "DBVuWfpA9h1_633dCsuvW8yO2vTBvla0G",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 36",
+          "professionLevel": "Знаток города 10 уровня"
+        },
+        "text": "Закончился генератор, докатил машину до вольтажа. В течение дня отремонтировали генератор и отдали машину. Спасибо)\nВ общем оперативно работают, и запчасти многие наличии.",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-05-15T10:32:39.474Z",
+        "businessComment": {
+          "text": "Спасибо за ваш отклик",
+          "updatedTime": "2024-05-16T15:06:31.216Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "szP048B3qHscUj2rdJZsZThuhpUPmkK",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 87",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Как постоянный клиент хочу сказать данной компании большое спасибо за прекрасные отношения и супер обслуживание автомобиля быстро , качественно и в срок. Рекомендую ",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-04-29T08:56:16.595Z",
+        "businessComment": {
+          "text": "Благодарим за ваш отзыв",
+          "updatedTime": "2024-05-16T15:06:39.899Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 2,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "tQEUy6JdYR3E3F71KlLmNy9fRIdPbdK0",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 45",
+          "professionLevel": "Знаток города 19 уровня"
+        },
+        "text": "Рекомендую, развал-схождение с предварительной диагностикой подвески, удобно, парни дело своё делают на отлично. ",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-04-26T19:24:38.703Z",
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2024-05-16T15:06:46.530Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "p7NaLii0mWPb4NVd8sk_oSSgwVePz8x",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 88",
+          "professionLevel": "Знаток города 16 уровня"
+        },
+        "text": "Всё ок! ",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-04-21T16:11:18.074Z",
+        "businessComment": {
+          "text": "Спасибо, мы старались",
+          "updatedTime": "2024-05-16T15:06:50.946Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "gBVdfW9hqZjNQxXbvrbiYaiaXkVSq03DX",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 89",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Качественно и не дорого",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-04-19T09:58:27.993Z",
+        "businessComment": {
+          "text": "Спасибо, что оценили",
+          "updatedTime": "2024-05-16T15:06:55.256Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "oMdW7P5umYKKC7jxEzqK8vfQyZlS29",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 90",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Не могли даже одеть ремень генератора, ездил сам разбирался за свои же деньги",
+        "textLanguage": "ru",
+        "rating": 1,
+        "updatedTime": "2024-04-05T18:21:04.725Z",
+        "businessComment": {
+          "text": "Добрый день!  по словам менеджера у вас размер ремьня не соответсвует тому какой ремень должен стоят согласно производителю авто и физически  не возможно одеть то что меньше размером. чтобы более подробно разобраться напишите пожалуйста номер заказ наряда. чтобы убедиться что вы были у нас и о каком ремне идет речь. ",
+          "updatedTime": "2024-04-08T07:50:46.138Z"
+        },
+        "reactions": {
+          "likes": 4,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "YKtnZNBEOo7qlzCkAIdJlr6PxeinGwKKD",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 91",
+          "professionLevel": "Знаток города 12 уровня"
+        },
+        "text": "Был проездом, оперативно решили вопрос с генератором.",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-03-21T17:42:43.910Z",
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "3TdamGVbqbU-Ron24FBc2VZGWvnM4HXK",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 92",
+          "professionLevel": "Знаток города 2 уровня"
+        },
+        "text": "Отличное обслуживание👍Машину сразу загнали в бокс, сразу взяли в работу.Четко быстро определили неисправность и починили!!! Красавцы💪💪💪Спасибо!!!",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-03-21T14:12:15.715Z",
+        "businessComment": {
+          "text": "Спасибо за такой отзыв",
+          "updatedTime": "2024-05-16T15:07:04.036Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 3,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "_8oRc-5AjgwNmTRxVlz28yYOWedSeR",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 93",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Плюсов в 10 раз меньше , чем минусов. Отсутствует профессиональность слесарей. Одной звезды лишеу",
+        "textLanguage": "ru",
+        "rating": 1,
+        "updatedTime": "2024-03-18T16:07:00.417Z",
+        "businessComment": {
+          "text": "Добрый день. Мы более 10 лет ремонтируем авто и у нас работают специалисты высокого уровня. если вас чтото не устроило опишите пожалуйста более подробно чтобы мы могли разобраться в ситуации.",
+          "updatedTime": "2024-05-16T15:08:57.458Z"
+        },
+        "reactions": {
+          "likes": 3,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "HuKiPSIDolYo39Z3Ln9uJarFvXEOoaz",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 94",
+          "professionLevel": "Знаток города 2 уровня"
+        },
+        "text": "Ребята красавцы!!!",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-03-04T17:45:08.466Z",
+        "businessComment": {
+          "text": "Спасибо за приятный отзыв",
+          "updatedTime": "2024-03-11T08:47:21.778Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 2,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "Mbv2KeUdeY2tEZhiM23PnHvtNL4F55q",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 7",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Быстро и оперативно заменили тормозные колодки, попутно нашли ещё и сломанную пружину, порекомендовали заменить, сразу же заказал через них, отлично работают, быстро, эффективно и недорого!) ",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-01-18T14:16:11.090Z",
+        "businessComment": {
+          "text": "Спасибо за такой отзыв",
+          "updatedTime": "2024-03-11T08:47:42.351Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 3,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "uUTcKGpNxSvlkg9iHDjOBB5XgUl1ISj",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 95",
+          "professionLevel": "Знаток города 6 уровня"
+        },
+        "text": "Быстро и качественно решили проблему с генератором",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-01-14T18:01:27.946Z",
+        "businessComment": {
+          "text": "Спасибо, мы старались",
+          "updatedTime": "2024-03-11T08:47:49.216Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "_f6s4h0h1-cmIAUMX3nLCPgB9vZRxDnS",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 96",
+          "professionLevel": "Знаток города 10 уровня"
+        },
+        "text": "Записался на два часа,а заехал только спустя час в три и это минус.",
+        "textLanguage": "ru",
+        "rating": 4,
+        "updatedTime": "2024-01-12T20:31:28.744Z",
+        "businessComment": {
+          "text": "Добрый день. мы учтем ваше замечание и сделаем сервис лучше.",
+          "updatedTime": "2024-03-11T08:48:43.547Z"
+        },
+        "reactions": {
+          "likes": 0,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "oQyyMt1NpF2fOKW5sSwS36lMATQ8RvsY",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 97",
+          "professionLevel": "Знаток города 2 уровня"
+        },
+        "text": "Компания «Вольтаж» спасибо огромное за быстроту и качество ремонта, загнал машину утром и в обед уже была готова несмотря на большой объем работы! Парни красавчики💪",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-01-11T10:59:32.894Z",
+        "businessComment": {
+          "text": "Спасибо, что оценили",
+          "updatedTime": "2024-03-11T08:48:49.286Z"
+        },
+        "reactions": {
+          "likes": 2,
+          "dislikes": 2,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "QrU5inrHglmjN1ZxYq5foHtF1mIqqlD",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 98",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Помогли решить проблему с мотором отопителя на опеле. РРебята молодцы, рекомендую!",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2024-01-11T10:59:14.824Z",
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2024-03-11T08:48:58.718Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "sShUIM_I0gvN1VagJNWEm7Xn2n9oA6iUs",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 99",
+          "professionLevel": "Знаток города 5 уровня"
+        },
+        "text": "Все хорошо! Оперативно сработали.. выдали гарантию на пол года. Правда немного дороговато",
+        "textLanguage": "ru",
+        "rating": 4,
+        "updatedTime": "2024-01-07T05:16:27.989Z",
+        "businessComment": {
+          "text": "Спасибо, учтём ваше мнение",
+          "updatedTime": "2024-01-08T07:28:20.288Z"
+        },
+        "reactions": {
+          "likes": 2,
+          "dislikes": 2,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "8NI2PfzvNCmpKB9R4FuSXRJsS4Jo55Mab",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 100",
+          "professionLevel": "Знаток города 7 уровня"
+        },
+        "text": "Ребята молодцы. Всегда есть зч в наличии.",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2023-12-30T16:02:40.045Z",
+        "businessComment": {
+          "text": "Спасибо за приятный отзыв",
+          "updatedTime": "2024-01-01T20:54:41.447Z"
+        },
+        "reactions": {
+          "likes": 3,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "-VdXBwW6sHw-ShQRpjcpBFY8t6Kh_R0lI",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 101",
+          "professionLevel": "Знаток города 9 уровня"
+        },
+        "text": "Отличный сервис стартер и генератор можно сделать за пол дня, а также сделать подвеску можно, все в одном месте.",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2023-12-29T17:38:33.848Z",
+        "businessComment": {
+          "text": "Спасибо, мы старались",
+          "updatedTime": "2024-01-01T20:54:54.321Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "GKMqmqxWAZFfNMUzdNe3KSZNiC0lDFMl",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 42",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Загудел генератор, подъехал на диагностику, заодно и оперативно починили. Большое спасибо за скорость и качество работы",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2023-12-20T08:09:27.228Z",
+        "businessComment": {
+          "text": "Спасибо за такой отзыв",
+          "updatedTime": "2024-01-01T20:55:03.810Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "YPKoub4kpBQ0MaWH7aojUjiwmZRKPBM",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 102",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "По поводу цилиндра  на сотке  вам было сказано менять а не качать  после вас заехал на НОРМАЛЬНОЕ СТО  мне его сняли показали сто ему хана вы этого не сделали  ссылаяст на эконом моих денег,я сам знаю где мне экономить,а где тратить ясно со своей задачей вы не справились,раньше Вольтаж был супер вернее спецы там работали и делали все и рейки перебирали  все сложности делали  а сейчас туфта полная ",
+        "textLanguage": "ru",
+        "rating": 1,
+        "updatedTime": "2023-12-20T05:22:22.290Z",
+        "reactions": {
+          "likes": 3,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "L5kpngfe4ol3Cr7PheOCqLExK3ewjqL",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 103",
+          "professionLevel": "Знаток города 4 уровня"
+        },
+        "text": "Хорошие ребята, настоящие мастера своего дела.",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2023-12-16T17:39:47.264Z",
+        "businessComment": {
+          "text": "Спасибо, мы старались",
+          "updatedTime": "2023-12-17T18:22:36.957Z"
+        },
+        "reactions": {
+          "likes": 2,
+          "dislikes": 3,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "9Nma8FXy7LVuUOVdCXGB4CWwPP4gNSk",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 104",
+          "professionLevel": "Знаток города 2 уровня"
+        },
+        "text": "Быстро нашли проблему и решили",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2023-12-14T10:34:28.577Z",
+        "businessComment": {
+          "text": "Спасибо, мы старались",
+          "updatedTime": "2023-12-17T18:22:43.364Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "mvhSuJUiBp2w-7C5fDxjJyrvBxeoOsp1",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 105",
+          "professionLevel": "Знаток города 8 уровня"
+        },
+        "text": "Хорошее обслуживание, приемлемые цены.  Искал щетки на стартер,весь город обошёл, и только там нашел. Как я понял довольно редкая запчасти.",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2023-12-10T17:16:49.099Z",
+        "businessComment": {
+          "text": "Спасибо за такой отзыв",
+          "updatedTime": "2023-12-17T18:22:49.975Z"
+        },
+        "reactions": {
+          "likes": 2,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "3vuka6Dwvg0HKG4fyrEo3nUtvK7Z2OrB2",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 27",
+          "professionLevel": "Знаток города 4 уровня"
+        },
+        "text": "Все качественно сделали и в срок, не первую машину уже ставлю сюда на ремонт, есть все специалисты от механика до электрика, запчасти модно пиобрести здесь же и не заморачиваться- ребята все подберут, все обьяснят",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2023-12-05T14:21:19.269Z",
+        "businessComment": {
+          "text": "Спасибо за приятный отзыв",
+          "updatedTime": "2023-12-07T09:28:24.055Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "ioeRHosyhVvxiGeoUYzodM59ash8ESAj",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 106",
+          "professionLevel": "Знаток города 2 уровня"
+        },
+        "text": "Знают свою работу, качество на уровне",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2023-11-30T13:43:09.773Z",
+        "businessComment": {
+          "text": "Спасибо за ваш отзыв",
+          "updatedTime": "2023-12-02T19:22:21.642Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "0raTYIGosxTz5zNKkyVopUHH0toDNrL",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 107",
+          "professionLevel": "Знаток города 6 уровня"
+        },
+        "text": "Быстро",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2023-11-29T14:47:52.684Z",
+        "businessComment": {
+          "text": "Спасибо, мы старались",
+          "updatedTime": "2023-12-02T19:22:19.401Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 0,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      },
+      {
+        "reviewId": "DFIKM0hEI7JjERAv88mxRllknkz03l",
+        "businessId": "1703836794",
+        "author": {
+          "name": "Автор 46",
+          "professionLevel": "Знаток города 3 уровня"
+        },
+        "text": "Рекомендую сервис отличный цены адекватные Предоставляют чеки которые я сохраняю в качестве доказательства что обслуживал свой автомобиль в официальном сервисе и плюсом есть гарантия на выполнененые работы. ",
+        "textLanguage": "ru",
+        "rating": 5,
+        "updatedTime": "2023-11-28T12:45:13.302Z",
+        "businessComment": {
+          "text": "Спасибо за вашу оценку",
+          "updatedTime": "2023-12-02T19:22:14.130Z"
+        },
+        "reactions": {
+          "likes": 1,
+          "dislikes": 1,
+          "userReaction": "NONE"
+        },
+        "photos": [],
+        "videos": [],
+        "pinned": false
+      }
+    ],
+    "params": {
+      "offset": 50,
+      "limit": 50,
+      "count": 191,
+      "loadedReviewsCount": 100,
+      "page": 2,
+      "totalPages": 4,
+      "reviewsRemained": 91
+    },
+    "tags": [],
+    "aspects": [
+      {
+        "text": "Обслуживание",
+        "count": 170,
+        "positive": 136,
+        "negative": 31
+      },
+      {
+        "text": "Ремонт",
+        "count": 104,
+        "positive": 79,
+        "negative": 24
+      },
+      {
+        "text": "Персонал",
+        "count": 93,
+        "positive": 65,
+        "negative": 14
+      },
+      {
+        "text": "Время ожидания",
+        "count": 92,
+        "positive": 86,
+        "negative": 5
+      }
+    ]
+  }
+}

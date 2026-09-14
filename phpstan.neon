@@ -1,0 +1,13 @@
+includes:
+    - vendor/larastan/larastan/extension.neon
+
+parameters:
+    level: max
+    paths:
+        - app
+        - bootstrap/app.php
+        - database
+        - routes
+    # tests/ is excluded: PHPStan cannot infer Pest's closure-bound $this and higher-order API.
+    # config/ is not analysed either: those files are plain arrays reading env().
+    tmpDir: storage/framework/cache/phpstan
